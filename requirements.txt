@@ -17,3 +17,4 @@ altair
 requests
 openpyxl
 python-docx
+shap
